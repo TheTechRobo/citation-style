@@ -12,11 +12,15 @@ The page containing your references should be titled one of ("Works Cited", "Ref
 ### Definitions
 #### Date
 ##### mm
-mm should be the number of the month. For example, June would be 06.
+mm should be a two-digit integer representing the month. For example, June would be 06.
 ##### Month
 Month should be the month in plain English. For example, June would be June.
+##### yyyy, Year
+yyyy or Year should be the Year in 4 digits. For example, 2020.
+##### dd, Day
+dd or Day should be a two-digit integer representing the date. For example, 31.
 ##### Format
-A date should be done in one of ("Day Year", "dd.mm.yy", "dd/mm/yy") formats, since they're the simplest ones.
+A date should be done in one of ("Day Month Year", "dd.mm.yyyy", "dd/mm/yyyy") formats, since they're the simplest ones. Examples are is 31 December 2020, 31.12.2020, and 31/12/2020.
 
 #### Wayback Machine/archive.org notice
 The Wayback Machine notice should be written as "Saved in the Wayback Machine" if the version you were looking at is there; "Saved in the Internet Archive" if it is in the Internet Archive; and not written at all if there is no copy in the Wayback Machine or Internet Archive.
