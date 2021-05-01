@@ -7,4 +7,40 @@
 > Important: If something is not listed here, expect it to be the same as it is in MLA8.
 
 ### The References Page
-The page containing your references should be titled one of ("Works Cited", "References").
+The page containing your references should be titled one of ("Works Cited", "References"). It should be the same font as you use for the rest of the document - we don't want to get fancy here.
+
+### Definitions
+#### Date
+##### mm
+mm should be the number of the month. For example, June would be 06.
+##### Month
+Month should be the month in plain English. For example, June would be June.
+##### Format
+A date should be done in one of ("Day Year", "dd.mm.yy", "dd/mm/yy") formats, since they're the simplest ones.
+
+#### Wayback Machine/archive.org notice
+The Wayback Machine notice should be written as "Saved in the Wayback Machine" if the version you were looking at is there; "Saved in the Internet Archive" if it is in the Internet Archive; and not written at all if there is no copy in the Wayback Machine or Internet Archive.
+
+### Citing sources
+#### An interview you conducted
+To cite an interview conducted by you, take this example text:
+
+> LastName, FirstName 'Nickname if there is one' MiddleName. Personal interview. Date. Recording URL if applicable.
+
+#### A webpage
+
+##### A page on a website without an author
+Take this example text:
+
+> "Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
+
+##### A page on a website with an author
+
+> LastName, FirstName 'Nickname' MiddleName. "Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
+
+##### Artwork
+
+> FirstName 'Nickname if applicable' LastName. "Artwork Name". Year. Website name, URL. Wayback Machine/archive.org notice.
+
+##### What to do if there isn't a date
+First, view the source of the page and use the Find tool to look for "og:" - for search engines a date is in one of them. Otherwise, write (no date).
