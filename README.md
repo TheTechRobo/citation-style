@@ -13,16 +13,18 @@ If using the Standard Edition, the page containing your references should be tit
 
 ### Definitions
 #### Date
-##### mm
-mm should be a two-digit integer representing the month. For example, June would be 06.
-##### Month
-Month should be the month in plain English. For example, June would be June.
-##### yyyy, Year
-yyyy or Year should be the Year in 4 digits. For example, 2020.
-##### dd, Day
-dd or Day should be a two-digit integer representing the date. For example, 31.
-##### Format
-If using the Standard Edition, a date should be done in the format "Day Month Year". The Extended Edition allows one of ("Day Month Year", "dd.mm.yyyy", "dd/mm/yyyy") formats. Examples are is 31 December 2020, 31.12.2020, and 31/12/2020.
+
+<dl><dt><b>mm</b></dt>
+  <dd>mm should be a two-digit integer representing the month. For example, June would be 06.</dd>
+<dt><b>Month</b></dt>
+  <dd>Month should be the month in plain English. For example, June would be June.</dd>
+  <dt><b>yyyy, Year</b></dt>
+  <dd>yyyy or Year should be the Year in 4 digits. For example, 2020.</dd>
+  <dt><b>dd, Day</b></dt>
+  <dd>dd or Day should be a two-digit integer representing the date. For example, 31.</dd>
+  <dt><b>Format</b></dt>
+<dd>If using the Standard Edition, a date should be done in the format "Day Month Year". The Extended Edition allows one of ("Day Month Year", "dd.mm.yyyy", "dd/mm/yyyy") formats. Examples are is 31 December 2020, 31.12.2020, and 31/12/2020.</dd>
+  </dl>
 
 #### Wayback Machine/archive.org notice
 The Wayback Machine notice should be written as "Saved in the Wayback Machine" if the version you were looking at is there; "Saved in the Internet Archive" if it is in the Internet Archive; and not written at all if there is no copy in the Wayback Machine or Internet Archive.
@@ -35,18 +37,33 @@ To cite an interview conducted by you, take this example text:
 
 #### A webpage
 
-##### A page on a website without an author
-Take this example text:
+<dl>
+  <dt><b>A page on a website without an author</b></dt>
+<dd>Take this example text:
 
 > "Article Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
 
-##### A page on a website with an author
+</dd>
+
+<dt><b>A page on a website with an author</b></dt>
+
+<dd>
 
 > LastName, FirstName 'Nickname' MiddleName. "Article Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
 
-##### Artwork
+</dd>
+
+<dt><b>Artwork</b></dt>
+<dd>
 
 > FirstName 'Nickname if applicable' LastName. "Artwork Name". Year. Website name, URL. Wayback Machine/archive.org notice.
 
-##### What to do if there isn't a date
+</dd>
+
+<dt><b>What to do if there isn't a date</b></dt>
+
+<dd>
+
 First, view the source of the page and use the Find tool to look for "og:" - for search engines a date is in one of them. If using the Standard Edition, write "n.d." If using the Extended Edition, write (no date) or n.d.
+
+</dd>
