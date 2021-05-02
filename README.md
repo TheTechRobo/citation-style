@@ -43,7 +43,7 @@ To cite an interview conducted by you, take this example text:
   <dt><b>A page on a website without an author</b></dt>
 <dd>Take this example text:
 
-> "Article Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
+<blockquote> "Article Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.</blockquote>
 
 </dd>
 
@@ -51,14 +51,14 @@ To cite an interview conducted by you, take this example text:
 
 <dd>
 
-> LastName, FirstName 'Nickname' MiddleName. "Article Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
+<blockquote>LastName, FirstName 'Nickname' MiddleName. "Article Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.</blockquote>
 
 </dd>
 
 <dt><b>Artwork</b></dt>
 <dd>
 
-> FirstName 'Nickname if applicable' LastName. "Artwork Name". Year. Website name, URL. Wayback Machine/archive.org notice.
+<blockquote>FirstName 'Nickname if applicable' LastName. "Artwork Name". Year. Website name, URL. Wayback Machine/archive.org notice.</blockquote>
 
 </dd>
 
