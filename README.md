@@ -31,13 +31,13 @@ If using the Standard Edition, the page containing your references should be tit
 
 </dl>
 
-### Citing sources
-#### An interview you conducted
+## Citing sources
+### An interview you conducted
 To cite an interview conducted by you, take this example text:
 
 > LastName, FirstName 'Nickname if there is one' MiddleName. Personal interview. Date. Recording URL if applicable.
 
-#### A webpage
+### A webpage
 
 <dl>
   <dt><b>A page on a website without an author</b></dt>
