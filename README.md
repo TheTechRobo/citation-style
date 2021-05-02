@@ -36,15 +36,15 @@ To cite an interview conducted by you, take this example text:
 ##### A page on a website without an author
 Take this example text:
 
-> "Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
+> "Article Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
 
 ##### A page on a website with an author
 
-> LastName, FirstName 'Nickname' MiddleName. "Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
+> LastName, FirstName 'Nickname' MiddleName. "Article Name." Website name, Company name (if not the same as website name), date modified, URL. Wayback Machine/archive.org notice.
 
 ##### Artwork
 
 > FirstName 'Nickname if applicable' LastName. "Artwork Name". Year. Website name, URL. Wayback Machine/archive.org notice.
 
 ##### What to do if there isn't a date
-First, view the source of the page and use the Find tool to look for "og:" - for search engines a date is in one of them. Otherwise, write (no date).
+First, view the source of the page and use the Find tool to look for "og:" - for search engines a date is in one of them. Otherwise, write (no date) or n.d.
