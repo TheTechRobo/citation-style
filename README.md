@@ -24,10 +24,12 @@ If using the Standard Edition, the page containing your references should be tit
   <dd>dd or Day should be a two-digit integer representing the date. For example, 31.</dd>
   <dt><b>Format</b></dt>
 <dd>If using the Standard Edition, a date should be done in the format "Day Month Year". The Extended Edition allows one of ("Day Month Year", "dd.mm.yyyy", "dd/mm/yyyy") formats. Examples are is 31 December 2020, 31.12.2020, and 31/12/2020.</dd>
-  </dl>
 
-#### Wayback Machine/archive.org notice
-The Wayback Machine notice should be written as "Saved in the Wayback Machine" if the version you were looking at is there; "Saved in the Internet Archive" if it is in the Internet Archive; and not written at all if there is no copy in the Wayback Machine or Internet Archive.
+<dt><b>Wayback Machine/archive.org notice</b></dt>
+
+<dd>The Wayback Machine notice should be written as "Saved in the Wayback Machine" if the version you were looking at is there; "Saved in the Internet Archive" if it is in the Internet Archive; and not written at all if there is no copy in the Wayback Machine or Internet Archive.</dd>
+
+</dl>
 
 ### Citing sources
 #### An interview you conducted
