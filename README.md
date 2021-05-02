@@ -6,8 +6,10 @@
 
 > Important: If something is not listed here, expect it to be the same as it is in MLA8.
 
+There are two versions of the TtR Citation Style - the Standard Edition and the Extended Edition. The Standard Edition is more restrictive with things like the date format, title of the references page, and others, while the Extended Edition allows more variants. The one you want to use is up to you.
+
 ### The References Page
-The page containing your references should be titled one of ("Works Cited", "References"). It should be the same font as you use for the rest of the document - we don't want to get fancy here.
+If using the Standard Edition, the page containing your references should be titled "Works Cited". The Extended Edition, on the other hand, allows both ("Works Cited", "References"). It should be the same font as you use for the rest of the document - we don't want to get fancy here.
 
 ### Definitions
 #### Date
@@ -20,7 +22,7 @@ yyyy or Year should be the Year in 4 digits. For example, 2020.
 ##### dd, Day
 dd or Day should be a two-digit integer representing the date. For example, 31.
 ##### Format
-A date should be done in one of ("Day Month Year", "dd.mm.yyyy", "dd/mm/yyyy") formats, since they're the simplest ones. Examples are is 31 December 2020, 31.12.2020, and 31/12/2020.
+If using the Standard Edition, a date should be done in the format "Day Month Year". The Extended Edition allows one of ("Day Month Year", "dd.mm.yyyy", "dd/mm/yyyy") formats. Examples are is 31 December 2020, 31.12.2020, and 31/12/2020.
 
 #### Wayback Machine/archive.org notice
 The Wayback Machine notice should be written as "Saved in the Wayback Machine" if the version you were looking at is there; "Saved in the Internet Archive" if it is in the Internet Archive; and not written at all if there is no copy in the Wayback Machine or Internet Archive.
@@ -47,4 +49,4 @@ Take this example text:
 > FirstName 'Nickname if applicable' LastName. "Artwork Name". Year. Website name, URL. Wayback Machine/archive.org notice.
 
 ##### What to do if there isn't a date
-First, view the source of the page and use the Find tool to look for "og:" - for search engines a date is in one of them. Otherwise, write (no date) or n.d.
+First, view the source of the page and use the Find tool to look for "og:" - for search engines a date is in one of them. If using the Standard Edition, write "n.d." If using the Extended Edition, write (no date) or n.d.
